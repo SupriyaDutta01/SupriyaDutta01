@@ -12,8 +12,7 @@
 **Data Handling:** NumPy, Pandas, PySpark  
 **Visualization:** Matplotlib, Seaborn, Plotly  
 **Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub, VS Code, Jupyter, Streamlit  
-**Cloud:** AWS Basics  
+**Tools:** Git, GitHub, VS Code, Jupyter, Streamlit   
 
 ---
 
